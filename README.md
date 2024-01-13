@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhotu065&label=Profile%20views&color=0e75b6&style=flat" alt="chhotu065" /> </p>
 
+- 🔭 I’m currently working on **my Programming Skills**
+
 - 🌱 I’m currently learning **Electrical Engineering**
 
 - 📫 How to reach me **siddharthkumar1065@gmail.com**
