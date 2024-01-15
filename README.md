@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **siddharthkumar1065@gmail.com**
 
-- ⚡ Fun fact **My favourite hobby is; to visit on the profile of Professional coders every weekend🧑‍💻.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
