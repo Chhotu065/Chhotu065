@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chhotu Rajak</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhotu065&label=Profile%20views&color=0e75b6&style=flat" alt="chhotu065" /> </p>
 
