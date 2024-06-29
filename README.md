@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working to **advance my skills in machine learning algorithms.**
 
-- 🌱 I’m currently learning **Electrical Engineering**
+- 🌱 I’m currently learning **Electrical Engineering.**
 
 - 📫 How to reach me **chhoturajak1310@gmail.com**
 
