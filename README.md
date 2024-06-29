@@ -2,12 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhotu065&label=Profile%20views&color=0e75b6&style=flat" alt="chhotu065" /> </p>
 
-- 🔭 I’m currently working to **advanced my skills in machine learning al‐
-gorithms**
+- 🔭 I’m currently working to **advance my skills in machine learning algorithms.**
 
 - 🌱 I’m currently learning **Electrical Engineering**
 
-- 📫 How to reach me **siddharthkumar1065@gmail.com**
+- 📫 How to reach me **chhoturajak1310@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
